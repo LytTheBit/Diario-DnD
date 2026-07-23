@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Curse of Strahd/Informazioni/Oggetti/Oggetti comuni/lettera del borgomastro/","tags":["oggetto","lettera"],"noteIcon":"","dg-note-properties":{"tags":["oggetto","lettera"],"Immagine":"Pasted image 20250330152255.png"}}
 ---
 
-Misteriosa lettera trovata presso i [[Curse of Strahd/Mondo/Luoghi/Cancelli\|Cancelli]] e scritta da [[Curse of Strahd/Personaggi/NPC/Kolyan Indirovich\|Kolyan Indirovich]] indirizzata a non si sa chi.
+Misteriosa lettera trovata presso i [[Curse of Strahd/Mondo/Luoghi/Cancelli\|Cancelli]] e scritta da [[Curse of Strahd/Personaggi/NPC/Kolyan Kolyanovich\|Kolyan Kolyanovich]] indirizzata a non si sa chi.
 ![Pasted image 20250330152255.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Pasted%20image%2020250330152255.png)
 > [!note]+ Lettera originale
 > Hail thee of might and valor:

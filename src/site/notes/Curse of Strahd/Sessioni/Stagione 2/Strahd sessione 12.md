@@ -15,11 +15,11 @@ Andiamo poi da un elfo, che vive nel [[villaggio dei Vistani\|villaggio dei Vist
 Ci racconta che:
 
 > [!NOTE]
-> [[Chander\|Chander]] (con un oggetto magico) e [[Marcovia\|Marcovia]] (santa del [[Curse of Strahd/Informazioni/Lore/Divinità/Lathander\|Lathander]]) hanno combattuto contro [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Strahd]] (in periodi separati) Questo lo ha portato a crearsi una immunità ai danni radianti (tramite [[artefatto immunità radianti\|artefatto]]).
+> [[Jander\|Jander]] (con un oggetto magico) e [[Markovia\|Markovia]] (santa del [[Curse of Strahd/Informazioni/Lore/Divinità/Lathander\|Lathander]]) hanno combattuto contro [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Strahd]] (in periodi separati) Questo lo ha portato a crearsi una immunità ai danni radianti (tramite [[artefatto immunità radianti\|artefatto]]).
 > La spada la ricevuta il [[Curse of Strahd/Personaggi/NPC/Sergei Von Zarovich\|fratello di Strahd]] (ora morto) dal signore del mattino.
 > **Note/teorie finali**
 > - [[Sunsword\|Spada del signore del mattino]] di [[Curse of Strahd/Personaggi/NPC/Sergei Von Zarovich\|Sergei Von Zarovich]] 
-> - Marcovia -> si è reincarnazione in Irina(?) 
+> - Markovia -> si è reincarnazione in Irina(?) 
 > - E la maledetto Strahd a non stare assieme(?)
 
 Torniamo quindi a [[Curse of Strahd/Mondo/Città/Villaggio di Vallaki\|Villaggio di Vallaki]], dove andiamo ad investigare il [[Curse of Strahd/Personaggi/NPC/Henrik van der Voort\|Tombarolo]]. Scopriamo che ha la casa piena di vampiri. Li uccidiamo mentre lui prova a fuggire, ma viene riacchiappato da [[Curse of Strahd/Personaggi/Party/Thomas Bertrand\|Thomas Bertrand]] e [[Curse of Strahd/Personaggi/Party/Gavriel Noctis\|Gavriel Noctis]].

@@ -19,7 +19,7 @@ Andiamo quindi al abazia, dove scopriamo che l'[[Curse of Strahd/Personaggi/NPC/
 Al abazia incontriamo anche [[Curse of Strahd/Personaggi/NPC/Alleati/Ezmeralda\|Ezmeralda]].
 
 Visto che l'abate è, per metterla elegantemente, pazzo come un folle sotto effetto di droghe, decidiamo di andarcene.
-Ma prima scopriamo che nasconde un oggetto magico nel altare. Mentre [[Curse of Strahd/Personaggi/Party/Sigfrit Von Drachenfels\|Sigfrit]] lo distrae, [[Curse of Strahd/Personaggi/Party/Kenjiro Nozomi\|Ken]] e [[Curse of Strahd/Personaggi/Party/Mavis Noctis\|Mavis]] lo rubano. E scopriamo essere [[Curse of Strahd/Informazioni/Oggetti/Oggetti magici/Holy Symbol of Ravenkind\|Holy Symbol of Ravenkind]].
+Ma prima scopriamo che nasconde un oggetto magico nel altare. Mentre [[Curse of Strahd/Personaggi/Party/Siegfried Von Drachenfels\|Sigfrit]] lo distrae, [[Curse of Strahd/Personaggi/Party/Kenjiro Nozomi\|Ken]] e [[Curse of Strahd/Personaggi/Party/Mavis Noctis\|Mavis]] lo rubano. E scopriamo essere [[Curse of Strahd/Informazioni/Oggetti/Oggetti magici/Holy Symbol of Ravenkind\|Holy Symbol of Ravenkind]].
 
 L'abate ci scopre, ma [[Curse of Strahd/Personaggi/Party/Thomas Bertrand\|Thomas]] lo immobilizza e fuggiamo assieme ad [[Curse of Strahd/Personaggi/NPC/Alleati/Ezmeralda\|Ezmeralda]] e [[Curse of Strahd/Personaggi/NPC/Alleati/Ireena Kolyana\|Ireena]].
 

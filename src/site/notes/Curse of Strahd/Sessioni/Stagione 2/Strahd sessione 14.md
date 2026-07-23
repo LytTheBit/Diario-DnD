@@ -4,7 +4,7 @@
 
 **Precedente:** [[Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 13\|Strahd sessione 13]]
 
-Riprendiamo la sessione da dove l'avevamo abbandonata. [[Curse of Strahd/Personaggi/Party/Sigfrit Von Drachenfels\|Sigfrit Von Drachenfels]] fugge dalle guardie della città che lo credono [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Strahd]]. Prova quindi ad abbandonare la città, ma mentre esce dalle mura cittadine perde la concentrazione sbattendo contro un carro e viene visto. Ma fugge.
+Riprendiamo la sessione da dove l'avevamo abbandonata. [[Curse of Strahd/Personaggi/Party/Siegfried Von Drachenfels\|Siegfried Von Drachenfels]] fugge dalle guardie della città che lo credono [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Strahd]]. Prova quindi ad abbandonare la città, ma mentre esce dalle mura cittadine perde la concentrazione sbattendo contro un carro e viene visto. Ma fugge.
 In mezzo alla foresta viene visto da due cacciatori, quelli mandati a cercare i bambini.
 Con un pò di dialettica riesce ad allontanarsi ed arrivare al [[Lago Zarovich\|Lago Zarovich]], dove trova [[Ipazzia\|Ipazzia]], mandata lì dal [[Curse of Strahd/Personaggi/Party/Thomas Bertrand\|Il Professore]].
 

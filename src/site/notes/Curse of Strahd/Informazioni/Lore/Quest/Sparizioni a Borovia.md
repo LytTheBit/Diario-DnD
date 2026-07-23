@@ -7,4 +7,4 @@ Aiutare [[Curse of Strahd/Personaggi/NPC/Ismark Kolyanovich\|Ismark Kolyanovich]
 ### Note
 
 ### Soluzione
-Era stato [[Curse of Strahd/Personaggi/NPC/Padre Donovic\|Padre Donovic]] per sfamare il figlio non morto [[Curse of Strahd/Personaggi/NPC/Doru Donovic\|Doru Donovic]]
+Era stato [[Curse of Strahd/Personaggi/NPC/Padre Donavich\|Padre Donavich]] per sfamare il figlio non morto [[Curse of Strahd/Personaggi/NPC/Doru Donavich\|Doru Donavich]]

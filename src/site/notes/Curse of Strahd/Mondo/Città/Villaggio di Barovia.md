@@ -3,7 +3,7 @@
 ---
 
 
-Villaggio situato ad un ora di cammino dai [[Curse of Strahd/Mondo/Luoghi/Cancelli\|Cancelli]]. Era governata dal ormai defunto [[Curse of Strahd/Personaggi/NPC/Kolyan Indirovich\|Kolyan Indirovich]]. Si trova nel [[Curse of Strahd/Mondo/Regioni/Reame di Barovia\|Reame di Barovia]]
+Villaggio situato ad un ora di cammino dai [[Curse of Strahd/Mondo/Luoghi/Cancelli\|Cancelli]]. Era governata dal ormai defunto [[Curse of Strahd/Personaggi/NPC/Kolyan Kolyanovich\|Kolyan Kolyanovich]]. Si trova nel [[Curse of Strahd/Mondo/Regioni/Reame di Barovia\|Reame di Barovia]]
 Luoghi di interesse:
 - [[Chiesa Donovic\|Chiesa Donovic]]
 - [[Curse of Strahd/Mondo/Luoghi/Taverna del vino del sangue\|Taverna del vino del sangue]]

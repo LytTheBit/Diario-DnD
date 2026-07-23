@@ -4,5 +4,5 @@
 
 
 Artista di strada. Sembra intenzionato ad uccidere i [[Curse of Strahd/Informazioni/Organizzazioni/Vistani\|Vistani]].
-In verità è [[Curse of Strahd/Personaggi/NPC/Rudolf Van Ricten\|Rudolf Van Ricten]]
+In verità è [[Curse of Strahd/Personaggi/NPC/Rudoph Van Richten\|Rudoph Van Richten]]
 ![Rictavio.png\|422](/img/user/0-Immagini%20e%20altro/Lorenzo/Rictavio.png)

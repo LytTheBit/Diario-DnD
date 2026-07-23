@@ -7,7 +7,7 @@
 Abbiamo deciso di andare a combattere contro [[Curse of Strahd/Personaggi/NPC/Nemici/Baba Lasyga\|Baba Lasyga]]. Arrivati li abbiamo incontrato una [[Curse of Strahd/Informazioni/Organizzazioni/Corvi mannari\|corvo mannara]] ferita. Ci ha spiegato che [[Curse of Strahd/Personaggi/NPC/Nemici/Baba Lasyga\|Baba Lasyga]] si crede la madre di [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Strahd]] e che ha rapito dei [[Curse of Strahd/Informazioni/Organizzazioni/Corvi mannari\|Corvi mannari]]. 
 Abbiamo quindi fatto un patto, noi la combatteremo mentre lei si occupa di liberare gli ostaggi.
 
-Mentre ci riposiamo [[Curse of Strahd/Personaggi/Party/Sigfrit Von Drachenfels\|Sigfrit]] e [[Curse of Strahd/Personaggi/Party/Mavis Noctis\|Mavis]] riprovano il loro scontro. E [[Curse of Strahd/Personaggi/Party/Gavriel Noctis\|Gavriel]] prepara l'incantesimo _"Silenzio"_, per contrastare le magie della strega.
+Mentre ci riposiamo [[Curse of Strahd/Personaggi/Party/Siegfried Von Drachenfels\|Sigfrit]] e [[Curse of Strahd/Personaggi/Party/Mavis Noctis\|Mavis]] riprovano il loro scontro. E [[Curse of Strahd/Personaggi/Party/Gavriel Noctis\|Gavriel]] prepara l'incantesimo _"Silenzio"_, per contrastare le magie della strega.
 [[Curse of Strahd/Personaggi/Party/Thomas Bertrand\|Thomas]] osserva che i [[Lupi mannari\|Lupi mannari]] della zona non ci attaccano, probabilmente [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Strahd]] li ha ordinato di lasciarci stare.
 
 Andiamo quindi ad affrontare la strega e la sua casa incantata, che in mezzo allo scontro prende vita e comincia a colpirci.

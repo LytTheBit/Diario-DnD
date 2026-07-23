@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Curse of Strahd/Informazioni/Oggetti/Oggetti comuni/Lettera di Strahd a Sigfrit/","tags":["oggetto","lettera"],"noteIcon":"","dg-note-properties":{"tags":["oggetto","lettera"],"Immagine":"Lettera generica.png"}}
 ---
 
-Lettera scritta da [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Strahd]] a un avventuriero generico. è capitata a [[Curse of Strahd/Personaggi/Party/Sigfrit Von Drachenfels\|Sigfrit Von Drachenfels]], cosa che lo ha portato a [[Curse of Strahd/Mondo/Città/Villaggio di Barovia\|Villaggio di Barovia]]. Nella lettera Strahd si fingen [[Curse of Strahd/Personaggi/NPC/Kolyan Indirovich\|Kolyan Indirovich]]
+Lettera scritta da [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Strahd]] a un avventuriero generico. è capitata a [[Curse of Strahd/Personaggi/Party/Siegfried Von Drachenfels\|Siegfried Von Drachenfels]], cosa che lo ha portato a [[Curse of Strahd/Mondo/Città/Villaggio di Barovia\|Villaggio di Barovia]]. Nella lettera Strahd si fingen [[Curse of Strahd/Personaggi/NPC/Kolyan Kolyanovich\|Kolyan Kolyanovich]]
 
 > [!note]+ Lettera di Strahd a Sigfrit
 > Salve a te, di potenza e valore.

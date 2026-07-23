@@ -11,10 +11,10 @@
 Riaccompagnammo [[Corvo madre\|Corvo madre]] e [[Corvo figlio\|Corvo figlio]] al vigneto dai [[Curse of Strahd/Informazioni/Organizzazioni/Corvi mannari\|Corvi mannari]]. E torniamo cosi a [[Curse of Strahd/Mondo/Città/Villaggio di Vallaki\|Villaggio di Vallaki]].
 
 In tanto [[Curse of Strahd/Personaggi/Party/Mavis Noctis\|Mavis Noctis]] scopre va alla [[Curse of Strahd/Mondo/Luoghi/Chiesa di St. Andral\|Chiesa di St. Andral]] e scopre da [[Prete di Vallaki\|Prete di Vallaki]] che le reliquie che proteggono la città dai #non-morti, delle ossa, sono state rubate.
-Di ritorno dalla chiesa scopre che il [[Curse of Strahd/Personaggi/NPC/Nemici/Baron Vargas Vallakovich\|borgomastro della città]] ha fatto mettere alla gogna dei cittadini innocenti solo perchè non stavano festeggiando. Lei li salva e viene notata da un certo [[Curse of Strahd/Personaggi/NPC/Alleati/Ernst Larnak\|Ernst Larnak]], che fa parte della resistenza e le chiede se volesse incontrare la sua padrona. 
+Di ritorno dalla chiesa scopre che il [[Curse of Strahd/Personaggi/NPC/Nemici/Baron Vargas Vallakovich\|borgomastro della città]] ha fatto mettere alla gogna dei cittadini innocenti solo perché non stavano festeggiando. Lei li salva e viene notata da un certo [[Curse of Strahd/Personaggi/NPC/Alleati/Ernst Larnak\|Ernst Larnak]], che fa parte della resistenza e le chiede se volesse incontrare la sua padrona. 
 
 Ci riuniamo con Mevis e ci mettiamo ad investigare:
-Scopriamo che 3 bambini sono scomparsi. Per ritrovarli, un bambino del [[Curse of Strahd/Mondo/Luoghi/Orfanotrofio (Vallaki)\|Orfanotrofio (Vallaki)]] chiamato [[Yeska\|Yeska]], servivano dei soldi per assumere dei cacciatori.
+Scopriamo che 3 bambini sono scomparsi. Per ritrovarli, un bambino del [[Curse of Strahd/Mondo/Luoghi/Orfanotrofio (Vallaki)\|Orfanotrofio (Vallaki)]] chiamato [[Milivoj\|Milivoj]], servivano dei soldi per assumere dei cacciatori.
 Ha ricevuto una [[Curse of Strahd/Informazioni/Oggetti/Oggetti comuni/Lettera di Bho a Yeska\|lettera]] da un misterioso figuro. Le ossa della chiesa in cambio ad abbastanza soldi per pagare i cacciatori.
 
 Lo scambio è avvenuto al [[Lago Zarovich\|Lago Zarovich]].

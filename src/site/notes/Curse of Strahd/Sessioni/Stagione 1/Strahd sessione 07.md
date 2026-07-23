@@ -19,10 +19,10 @@ Ci hanno spiegato che le tre gemme delle [[Curse of Strahd/Informazioni/Organizz
 
 Ci hanno detto che però ci sarebbe servito l'aiuto di una cacciatrice, che vive in una [[Curse of Strahd/Mondo/Luoghi/Torre del mago\|Torre]] qua vicina. Siamo quindi andati a cercare questa cacciatrice, [[Curse of Strahd/Personaggi/NPC/Alleati/Ezmeralda\|Ezmeralda]].
 
-Con un pò di fatica siamo riusciti ad entrare nella torre, e a farci fidare da [[Curse of Strahd/Personaggi/NPC/Alleati/Ezmeralda\|Ezmeralda]]. Il suo maestro, [[Curse of Strahd/Personaggi/NPC/Rudolf Van Ricten\|Rudolf Van Ricten]], aveva lasciato una bacheca sulla parete. Citando il master, sulla lavagna c'era scritto: 
+Con un pò di fatica siamo riusciti ad entrare nella torre, e a farci fidare da [[Curse of Strahd/Personaggi/NPC/Alleati/Ezmeralda\|Ezmeralda]]. Il suo maestro, [[Curse of Strahd/Personaggi/NPC/Rudoph Van Richten\|Rudoph Van Richten]], aveva lasciato una bacheca sulla parete. Citando il master, sulla lavagna c'era scritto: 
 > [!NOTE] Lavagna del Complotto: 
 > Centro: [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Strahd]]
-> Cacciatore: [[Curse of Strahd/Personaggi/NPC/Rudolf Van Ricten\|Rudolf Van Ricten]]
+> Cacciatore: [[Curse of Strahd/Personaggi/NPC/Rudoph Van Richten\|Rudoph Van Richten]]
 > Corte: [[Volenta\|Volenta]], [[Ludmilla\|Ludmilla]], [[Anastrasya\|Anastrasya]], [[Escher\|Escher]], [[Curse of Strahd/Personaggi/NPC/Nemici/Rahadin\|Rahadin]]. 
 > Madre di Stradh: [[Curse of Strahd/Personaggi/NPC/Nemici/Baba Lasyga\|Baba Lasyga]]. 
 > [[Curse of Strahd/Informazioni/Organizzazioni/Corvi mannari\|Guardiani della Piuma]] vs [[Curse of Strahd/Informazioni/Organizzazioni/Druidi del Sangue\|Druidi del Sangue]] (servono [[Curse of Strahd/Personaggi/NPC/Nemici/Baba Lasyga\|Baba Lasyga]])

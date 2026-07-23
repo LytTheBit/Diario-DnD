@@ -22,12 +22,12 @@ Le domande e le risposte:
 > 	- Portava cibo a Strahd e alla sua corte da vari mondi 
 > - Che membri della corte conoscevi?
 > 	- Ciambellano [[Curse of Strahd/Personaggi/NPC/Nemici/Rahadin\|Rahadin]] 
-> 	- Prima consorte [[Rudvilla\|Rudvilla]]
+> 	- Prima consorte [[Ludmilla\|Ludmilla]]
 
 Abbiamo quindi affivato [[Curse of Strahd/Personaggi/Party/Mavis Noctis\|Mavis Noctis]] a [[Curse of Strahd/Personaggi/NPC/Alleati/Vasili Von Holtz\|Vasili Von Holtz]] e ci siamo incamminati in direzione di: [[Curse of Strahd/Mondo/Luoghi/Yester hill\|Yester hill]] dai [[Curse of Strahd/Informazioni/Organizzazioni/Druidi del Sangue\|Druidi del Sangue]] per salvare [[Corvo madre\|Corvo madre]] e [[Corvo figlio\|Corvo figlio]], e recuperare una delle [[Curse of Strahd/Informazioni/Oggetti/Oggetti magici/Perle delle driadi\|Perle delle driadi]].  Dove si dovrebbe trovare anche un albero chiamato [[Curse of Strahd/Wintersplinter\|Wintersplinter]]. 
 
 Siamo arrivati li e abbiamo combattuto i Druidi. Sconfiggendoli e uccidendo il loro capo.
-Mentre [[Curse of Strahd/Personaggi/Party/Sigfrit Von Drachenfels\|Sigfrit Von Drachenfels]] ha trovato una strana lancia incastonata in una roccia.
+Mentre [[Curse of Strahd/Personaggi/Party/Siegfried Von Drachenfels\|Siegfried Von Drachenfels]] ha trovato una strana lancia incastonata in una roccia.
 
 
 **Continua:** [[Curse of Strahd/Sessioni/Stagione 1/Strahd sessione 09\|Strahd sessione 09]]

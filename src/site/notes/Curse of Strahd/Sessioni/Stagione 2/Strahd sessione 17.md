@@ -35,7 +35,7 @@ Vista la situazione, e visto che il giorno successivo avremmo avuto la [[Curse o
 	- [Spada lunga +1](https://dnd5e.wikidot.com/wondrous-items:weapon-1-2-3)
 - **[[Curse of Strahd/Personaggi/Party/Kenjiro Nozomi\|Kenjiro Nozomi]]**
 	- [All-Purpose Tool](https://dnd5e.wikidot.com/wondrous-items:all-purpose-tool)
-- **[[Curse of Strahd/Personaggi/Party/Sigfrit Von Drachenfels\|Sigfrit Von Drachenfels]]**
+- **[[Curse of Strahd/Personaggi/Party/Siegfried Von Drachenfels\|Siegfried Von Drachenfels]]**
 	- [Amulet of the Devout](https://dnd5e.wikidot.com/wondrous-items:amulet-of-the-devout)
 	- [Shield +1](https://dnd5e.wikidot.com/wondrous-items:shield-1-2-3)
 - **[[Curse of Strahd/Personaggi/Party/Thomas Bertrand\|Thomas Bertrand]]**
